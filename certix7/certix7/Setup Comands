@@ -1,1 +1,14 @@
 Setup Comands
+
+
+make short cut 
+
+
+gnome-software
+
+
+sudo apt install gnome-software kali-desktop-gnome -y
+
+gsettings set org.gnome.desktop.interface gtk-theme "Kali-Dark"
+gsettings set org.gnome.desktop.wm.preferences theme "Kali-Dark"
+
